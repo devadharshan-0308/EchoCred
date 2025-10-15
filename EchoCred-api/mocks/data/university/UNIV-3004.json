@@ -1,0 +1,28 @@
+{
+  "issuer": "University",
+  "issuer_type": "ncvet",
+  "ncvet_verified": true,
+  "certificate_id": "UNIV-3004",
+  "learner_name": "Diana Patel",
+  "certificate_title": "Degree Certificate",
+  "course_title": "B.A English",
+  "completion_date": "2025-10-11",
+  "verification_url": "https://university.edu/verify/UNIV-3004",
+  "metadata": {
+    "instructor_name": "",
+    "organization_name": "Prestige University",
+    "organization_logo": "university_logo.png",
+    "course_duration": "3 years",
+    "language": "English",
+    "issue_date": "2025-10-11",
+    "credential_type": "Degree",
+    "accreditation_info": "Nationally Accredited",
+    "skill_level": "",
+    "nsqf_alignment": "",
+    "signatories": [
+      "Registrar",
+      "Vice Chancellor"
+    ],
+    "additional_notes": ""
+  }
+}

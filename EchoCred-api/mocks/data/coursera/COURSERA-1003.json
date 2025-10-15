@@ -1,0 +1,27 @@
+{
+  "issuer": "Coursera",
+  "issuer_type": "non_ncvet",
+  "ncvet_verified": false,
+  "certificate_id": "COURSERA-1003",
+  "learner_name": "Bob Smith",
+  "certificate_title": "Certificate of Completion",
+  "course_title": "AI for Everyone",
+  "completion_date": "2025-10-11",
+  "verification_url": "https://www.coursera.org/verify/COURSERA-1003",
+  "metadata": {
+    "instructor_name": "Coursera Instructor",
+    "organization_name": "Coursera, Inc.",
+    "organization_logo": "coursera_logo.png",
+    "course_duration": "",
+    "language": "English",
+    "issue_date": "2025-10-11",
+    "credential_type": "Course Completion",
+    "accreditation_info": "",
+    "skill_level": "",
+    "nsqf_alignment": "",
+    "signatories": [
+      "Coursera Team"
+    ],
+    "additional_notes": ""
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "issuer": "FutureSkills Prime",
+  "issuer_type": "ncvet",
+  "ncvet_verified": true,
+  "certificate_id": "FUTURE-1001",
+  "learner_name": "Bob Smith",
+  "certificate_title": "Certificate of Completion",
+  "course_title": "Data Analytics Foundation",
+  "completion_date": "2025-10-11",
+  "verification_url": "https://futureskillsprime.in/verify/FUTURE-1001",
+  "metadata": {
+    "instructor_name": "",
+    "organization_name": "NASSCOM / MeitY",
+    "organization_logo": "futureskills_logo.png",
+    "course_duration": "20 hours",
+    "language": "",
+    "issue_date": "2025-10-11",
+    "credential_type": "",
+    "accreditation_info": "",
+    "skill_level": "Foundation",
+    "nsqf_alignment": 4,
+    "signatories": [
+      "Authorized FutureSkills Official"
+    ],
+    "additional_notes": ""
+  }
+}

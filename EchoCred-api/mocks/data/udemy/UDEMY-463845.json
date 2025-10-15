@@ -1,0 +1,23 @@
+{
+  "issuer": "Udemy",
+  "issuer_type": "non_ncvet",
+  "ncvet_verified": false,
+  "certificate_id": "UDEMY-463845",
+  "learner_name": "Terri Jenkins",
+  "certificate_title": "Certificate of Completion",
+  "course_title": "Universal 6thgeneration capability Masterclass",
+  "completion_date": "2025-06-09",
+  "verification_url": "https://www.udemy.com/certificate/UDEMY-463845",
+  "metadata": {
+    "instructor_name": "Victoria Choi",
+    "organization_name": "Udemy, Inc.",
+    "organization_logo": "udemy_logo.png",
+    "course_duration": "14 hours",
+    "language": "Hindi",
+    "issue_date": "2025-06-09",
+    "credential_type": "Course Completion",
+    "signatories": [
+      "Udemy Instructor Team"
+    ]
+  }
+}
