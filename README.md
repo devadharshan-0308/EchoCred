@@ -1,7 +1,7 @@
 # EchoCred - Enterprise Certificate Verification Platform
 
 <div align="center">
-  <h3>🏆 Smart India Hackathon 2024 Project</h3>
+  <h3>🏆 Smart India Hackathon 2025 </h3>
   <p><em>Full-stack certificate verification platform with blockchain simulation</em></p>
   
   ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -217,7 +217,7 @@ npm test
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🏆 Smart India Hackathon 2024
+## 🏆 Smart India Hackathon 2025
 
 This project was developed for the Smart India Hackathon 2024, addressing the critical need for reliable certificate verification in India's rapidly growing digital education ecosystem.
 
@@ -243,9 +243,8 @@ EchoCred provides a unified, secure, and scalable platform that:
 ## 📞 Support
 
 For support and queries:
-- 📧 Email: support@echocred.com
-- 🐛 Issues: [GitHub Issues](https://github.com/yourusername/echocred/issues)
-- 📖 Documentation: [Wiki](https://github.com/yourusername/echocred/wiki)
+- 📧 Email: devadharshan03082006@gmail.com 
+- 🐛 Issues: [GitHub Issues](https://github.com/devadharshan-0308/EchoCred/issues) 
 
 ---
 
