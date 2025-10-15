@@ -31,7 +31,7 @@ EchoCred is a full-stack certificate verification platform designed to combat cr
 EchoCred/
 ├── backend/                 # Node.js Express API server
 ├── frontend/               # React.js web application
-└── skill-valut-api/       # Mock data generators (Python)
+└── EchoCred-api/       # Mock data generators (Python)
 ```
 
 ### Technology Stack
