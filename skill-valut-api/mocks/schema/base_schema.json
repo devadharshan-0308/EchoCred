@@ -1,0 +1,25 @@
+{
+  "issuer": "",
+  "issuer_type": "", 
+  "ncvet_verified": false,
+  "certificate_id": "",
+  "learner_name": "",
+  "certificate_title": "",
+  "course_title": "",
+  "completion_date": "",
+  "verification_url": "",
+  "metadata": {
+    "instructor_name": "",
+    "organization_name": "",
+    "organization_logo": "",
+    "course_duration": "",
+    "language": "",
+    "issue_date": "",
+    "credential_type": "",
+    "accreditation_info": "",
+    "skill_level": "",
+    "nsqf_alignment": "",
+    "signatories": [],
+    "additional_notes": ""
+  }
+}

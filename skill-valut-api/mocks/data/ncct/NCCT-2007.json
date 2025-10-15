@@ -1,0 +1,27 @@
+{
+  "issuer": "NCCT",
+  "issuer_type": "ncvet",
+  "ncvet_verified": true,
+  "certificate_id": "NCCT-2007",
+  "learner_name": "George Martin",
+  "certificate_title": "Certificate of Competency",
+  "course_title": "Medical Assistant - NCMA",
+  "completion_date": "2025-10-11",
+  "verification_url": "https://ncct.org/verify/NCCT-2007",
+  "metadata": {
+    "instructor_name": "",
+    "organization_name": "NCCT",
+    "organization_logo": "ncct_logo.png",
+    "course_duration": "40 hours",
+    "language": "",
+    "issue_date": "2025-10-11",
+    "credential_type": "",
+    "accreditation_info": "NCCA Accredited",
+    "skill_level": "Competency Level",
+    "nsqf_alignment": "",
+    "signatories": [
+      "NCCT Official"
+    ],
+    "additional_notes": ""
+  }
+}

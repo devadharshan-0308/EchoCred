@@ -1,0 +1,28 @@
+{
+  "issuer": "University",
+  "issuer_type": "ncvet",
+  "ncvet_verified": true,
+  "certificate_id": "UNIV-345981",
+  "learner_name": "Terri Vaughan",
+  "certificate_title": "Degree Certificate",
+  "course_title": "B.Tech IT with Honors",
+  "completion_date": "2020-02-20",
+  "verification_url": "https://university.edu/verify/UNIV-345981",
+  "metadata": {
+    "instructor_name": "",
+    "organization_name": "Mitchell, Bennett and King University",
+    "organization_logo": "university_logo.png",
+    "course_duration": "3 years",
+    "language": "English",
+    "issue_date": "2020-02-20",
+    "credential_type": "Degree",
+    "accreditation_info": "Nationally Accredited",
+    "skill_level": "",
+    "nsqf_alignment": "",
+    "signatories": [
+      "David Meza",
+      "Rebecca Robinson"
+    ],
+    "additional_notes": ""
+  }
+}

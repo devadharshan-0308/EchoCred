@@ -1,0 +1,138 @@
+# =============================================================================
+# ECHOCRED - AGGRESSIVE GITIGNORE (Only Essential Source Code Visible)
+# =============================================================================
+
+# Dependencies & Package Managers
+node_modules/
+package-lock.json
+yarn.lock
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment Variables & Secrets
+.env
+.env.*
+!.env.example
+
+# Build Outputs & Distributions
+build/
+dist/
+out/
+*.tgz
+*.tar.gz
+
+# Logs & Runtime Data
+logs/
+*.log
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Cache Directories
+.cache/
+.parcel-cache/
+.npm/
+.eslintcache
+.prettiercache
+.stylelintcache
+.nyc_output/
+coverage/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+.python-version
+Pipfile.lock
+__pypackages__/
+
+# Generated Certificates & Mock Data (Hide from GitHub)
+skill-valut-api/skill-valut-api/mocks/certificates/
+skill-valut-api/skill-valut-api/mocks/data/
+certificates/
+uploads/
+mock_certificates/
+
+# Database Files
+*.db
+*.sqlite
+*.sqlite3
+dump/
+dump.rdb
+
+# IDE & Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.history/
+
+# OS Generated Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+$RECYCLE_BIN/
+*.lnk
+.AppleDouble
+.LSOverride
+Icon
+.DocumentRevisions-V100
+.fseventsd
+.TemporaryItems
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+.directory
+.Trash-*
+.nfs*
+.fuse_hidden*
+
+# Temporary Files
+tmp/
+temp/
+*.tmp
+*.bak
+*.backup
+*.old
+
+# Framework Specific
+.next/
+.nuxt/
+.serverless/
+.fusebox/
+.dynamodb/
+.tern-port
+
+# =============================================================================
+# WHAT WILL BE VISIBLE ON GITHUB:
+# - README.md
+# - package.json files
+# - .env.example
+# - Source code in src/ directories
+# - Configuration files (tailwind.config.js, postcss.config.js)
+# - Python generator scripts (but not generated data)
+# - Mock API server code
+# - Schema files
+# =============================================================================

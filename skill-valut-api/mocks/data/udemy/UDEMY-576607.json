@@ -1,0 +1,23 @@
+{
+  "issuer": "Udemy",
+  "issuer_type": "non_ncvet",
+  "ncvet_verified": false,
+  "certificate_id": "UDEMY-576607",
+  "learner_name": "Cynthia Delacruz",
+  "certificate_title": "Certificate of Completion",
+  "course_title": "Optimized explicit adapter Masterclass",
+  "completion_date": "2025-07-15",
+  "verification_url": "https://www.udemy.com/certificate/UDEMY-576607",
+  "metadata": {
+    "instructor_name": "Melissa Herrera",
+    "organization_name": "Udemy, Inc.",
+    "organization_logo": "udemy_logo.png",
+    "course_duration": "36 hours",
+    "language": "Spanish",
+    "issue_date": "2025-07-15",
+    "credential_type": "Course Completion",
+    "signatories": [
+      "Udemy Instructor Team"
+    ]
+  }
+}

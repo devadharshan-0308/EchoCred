@@ -1,0 +1,23 @@
+{
+  "issuer": "Coursera",
+  "issuer_type": "non_ncvet",
+  "ncvet_verified": false,
+  "certificate_id": "COURSERA-200001",
+  "learner_name": "George Brown",
+  "certificate_title": "Certificate of Completion",
+  "course_title": "Business Analytics",
+  "completion_date": "2025-10-01",
+  "verification_url": "https://www.coursera.org/verify/COURSERA-200001",
+  "metadata": {
+    "instructor_name": "Cheryl Robbins",
+    "organization_name": "Pratt-Ferguson",
+    "organization_logo": "coursera_logo.png",
+    "issue_date": "2025-10-01",
+    "credential_type": "Specialization",
+    "signatories": [
+      "Joshua Chen",
+      "Nichole Williams"
+    ],
+    "language": "English"
+  }
+}

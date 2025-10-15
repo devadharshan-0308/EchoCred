@@ -1,0 +1,27 @@
+{
+  "issuer": "Udemy",
+  "issuer_type": "non_ncvet",
+  "ncvet_verified": false,
+  "certificate_id": "UDEMY-100003",
+  "learner_name": "Bob Smith",
+  "certificate_title": "Certificate of Completion",
+  "course_title": "React for Beginners",
+  "completion_date": "2025-10-01",
+  "verification_url": "https://www.udemy.com/certificate/UDEMY-100003",
+  "metadata": {
+    "instructor_name": "Lance Huynh",
+    "organization_name": "Udemy, Inc.",
+    "organization_logo": "udemy_logo.png",
+    "course_duration": "20 hours",
+    "language": "English",
+    "issue_date": "2025-10-01",
+    "credential_type": "Course Completion",
+    "accreditation_info": "",
+    "skill_level": "",
+    "nsqf_alignment": "",
+    "signatories": [
+      "Udemy Instructor Team"
+    ],
+    "additional_notes": ""
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "blocks": [
+    {
+      "index": 0,
+      "timestamp": "2025-10-10T16:42:41.801Z",
+      "transactions": [],
+      "previousHash": "0",
+      "nonce": 0,
+      "hash": "82f80579c9a7a5411a44a7093ed2a481b8ff8632a235ebc5cfd1c9b064f08131"
+    }
+  ],
+  "pendingTransactions": [],
+  "lastUpdated": "2025-10-10T16:42:41.803Z"
+}

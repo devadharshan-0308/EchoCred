@@ -1,0 +1,23 @@
+{
+  "issuer": "Udemy",
+  "issuer_type": "non_ncvet",
+  "ncvet_verified": false,
+  "certificate_id": "UDEMY-853288",
+  "learner_name": "Mr. Christopher Thompson",
+  "certificate_title": "Certificate of Completion",
+  "course_title": "Phased national service-desk Masterclass",
+  "completion_date": "2025-04-15",
+  "verification_url": "https://www.udemy.com/certificate/UDEMY-853288",
+  "metadata": {
+    "instructor_name": "Alejandro Howard",
+    "organization_name": "Udemy, Inc.",
+    "organization_logo": "udemy_logo.png",
+    "course_duration": "16 hours",
+    "language": "Spanish",
+    "issue_date": "2025-04-15",
+    "credential_type": "Course Completion",
+    "signatories": [
+      "Udemy Instructor Team"
+    ]
+  }
+}

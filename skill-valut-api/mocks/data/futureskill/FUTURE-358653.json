@@ -1,0 +1,27 @@
+{
+  "issuer": "FutureSkills Prime",
+  "issuer_type": "ncvet",
+  "ncvet_verified": true,
+  "certificate_id": "FUTURE-358653",
+  "learner_name": "James Lewis",
+  "certificate_title": "Certificate of Completion",
+  "course_title": "Embrace 24/365 Action-Items Program",
+  "completion_date": "2025-09-07",
+  "verification_url": "https://futureskillsprime.in/verify/FUTURE-358653",
+  "metadata": {
+    "instructor_name": "",
+    "organization_name": "NASSCOM / MeitY",
+    "organization_logo": "futureskills_logo.png",
+    "course_duration": "9 hours",
+    "language": "",
+    "issue_date": "2025-09-07",
+    "credential_type": "",
+    "accreditation_info": "",
+    "skill_level": "Deep Skilling",
+    "nsqf_alignment": 7,
+    "signatories": [
+      "Authorized FutureSkills Official"
+    ],
+    "additional_notes": ""
+  }
+}

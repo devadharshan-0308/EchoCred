@@ -1,0 +1,27 @@
+{
+  "issuer": "FutureSkills Prime",
+  "issuer_type": "ncvet",
+  "ncvet_verified": true,
+  "certificate_id": "FUTURE-287966",
+  "learner_name": "Erik Cox",
+  "certificate_title": "Certificate of Completion",
+  "course_title": "Repurpose Distributed Portals Program",
+  "completion_date": "2025-01-30",
+  "verification_url": "https://futureskillsprime.in/verify/FUTURE-287966",
+  "metadata": {
+    "instructor_name": "",
+    "organization_name": "NASSCOM / MeitY",
+    "organization_logo": "futureskills_logo.png",
+    "course_duration": "37 hours",
+    "language": "",
+    "issue_date": "2025-01-30",
+    "credential_type": "",
+    "accreditation_info": "",
+    "skill_level": "Deep Skilling",
+    "nsqf_alignment": 10,
+    "signatories": [
+      "Authorized FutureSkills Official"
+    ],
+    "additional_notes": ""
+  }
+}
